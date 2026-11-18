@@ -85,14 +85,14 @@ Muat data  ->  Bersihkan  ->  Pisahkan X dan y  ->  Bagi 80/20
 
 | Model | MAE (K) | RMSE (K) | R² | CV_RMSE |
 |---|---|---|---|---|
-| Linear Regression | | | | |
-| Decision Tree | | | | |
-| Random Forest | | | | |
-| Gradient Boosting (Hist) | | | | |
-| XGBoost | | | | |
+| Linear Regression | 13.21 | 17.38 | 0.738  | 17.70 |
+| Decision Tree | 6.06 | 11.80 | 0.879 | 13.38 |
+| Random Forest | 5.09 | 8.98 | 0.930 | 9.91 |
+| Gradient Boosting (Hist) | 5.53 | 9.21 | 0.926 | 10.29 |
+| XGBoost | 5.83 | 9.31 | 0.925 | 10.08 |
 
-**Model terbaik:** _isi_  
-**Fitur terpenting menurut Random Forest:** _isi_
+**Model terbaik:** _Random Forest_  
+**Fitur terpenting menurut Random Forest:** _range_ThermalConductivity_
 
 ## Cara Menjalankan
 
@@ -169,9 +169,8 @@ Hasil ini sebaiknya dianggap sebagai **bukti konsep (*proof of concept*)**, buka
 | 7 | Khairunnisa Lizal N | G1A025060 |
 | 8 | Alysa Kirana | G1A025066 |
 | 9 | Aurel Clara | G1A025070 |
-| 10 | Thoriq Sultan H | G1A025076 |
-| 11 | Adellia Fakhira | G1A025078 |
-| 12 | M Rafif Al-falah | G1A025116 |
+| 10 | Adellia Fakhira | G1A025078 |
+| 11 | M Rafif Al-falah | G1A025116 |
 
 ## Sumber dan Kredit
 

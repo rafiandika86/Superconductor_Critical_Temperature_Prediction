@@ -81,7 +81,6 @@ Muat data  ->  Bersihkan  ->  Pisahkan X dan y  ->  Bagi 80/20
 
 ## Hasil
 
-> **TODO:** isi tabel berikut dengan angka dari hasil eksekusi notebook Anda sendiri. Jangan memakai angka dari sumber lain.
 
 | Model | MAE (K) | RMSE (K) | R² | CV_RMSE |
 |---|---|---|---|---|
